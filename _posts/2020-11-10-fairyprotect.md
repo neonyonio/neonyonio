@@ -10,7 +10,7 @@ tags: [CoC, 벨탄]
 ---
 
 
-[CoC]페어리 갓 마더 11th
+[CoC]
 
 
 {% include_relative fairygodmother-protected.html %}
