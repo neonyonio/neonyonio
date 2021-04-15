@@ -13,7 +13,7 @@ tags: [CoC, 벨탄]
 [CoC]
 
 
-{% include_relative fairygodmother-protected.html %}
+{% include_relative trashhuman.html %}
 
 <body>
     <p style="width:100px;height:680px">coc</p>
