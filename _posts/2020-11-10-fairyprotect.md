@@ -16,5 +16,5 @@ tags: [CoC, 벨탄]
 {% include_relative fairygodmother-protected.html %}
 
 <body>
-    <p style="width:100px;height:1080px">coc</p>
+    <p style="width:100px;height:880px">coc</p>
 </body>
