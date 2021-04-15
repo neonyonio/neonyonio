@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: minimal
 title: 페어리 갓 마더 11th
 subtitle: 알니카 옴니스 & 스타니스가르 아세네
 permalink: /2020-11-10-fairy_encrypted_open/
