@@ -15,44 +15,4 @@ tags: [CoC, 벨탄]
 
 {% include_relative fairygodmother-protected.html %}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<span style="padding-down:1120px">
