@@ -11,11 +11,10 @@ draft: true
 ---
 
 
-[CoC]
 
 
 {% include_relative sorrowofleftbehindbefore.html %}
 
 <body>
-    <p style="width:100px;height:680px">coc</p>
+    <p style="width:100px;height:680px"></p>
 </body>
