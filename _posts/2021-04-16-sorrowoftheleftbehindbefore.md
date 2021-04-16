@@ -13,8 +13,8 @@ draft: true
 
 
 
-{% include_relative sorrowofleftbehindbefore.html %}
+{% include_relative sorrowofleftbehindbefore-protected.html %}
 
 <body>
-    <p style="width:100px;height:680px"></p>
+    <p style="width:100px;height:680px">.</p>
 </body>
