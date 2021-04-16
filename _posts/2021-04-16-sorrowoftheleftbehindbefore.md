@@ -14,7 +14,7 @@ draft: true
 [CoC]
 
 
-{% include_relative sorrowoftheleftbehindbefore.html %}
+{% include_relative sorrowofleftbehindbefore.html %}
 
 <body>
     <p style="width:100px;height:680px">coc</p>
