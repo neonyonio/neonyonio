@@ -9,4 +9,4 @@ tags: [CoC, 샤대, 취뽀]
 
 co
 
-{% include_relative test.mhtml %}
+{% include_relative aaenterone.html %}
