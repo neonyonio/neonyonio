@@ -7,6 +7,6 @@ tags: [CoC, 샤대, 취뽀]
 ---
 
 
-co
+coc
 
 {% include_relative aaenterone.html %}
