@@ -10,4 +10,3 @@ draft: true
 
 coc
 
-{% include_relative aaenterr.html %}
