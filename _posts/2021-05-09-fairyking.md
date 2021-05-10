@@ -6,11 +6,8 @@ permalink: /2021-05-09-fairyking/
 cover-img: /assets/img/loveissick.png
 thumbnail-img: /assets/img/loveissick.png
 share-img: /assets/img/loveissick.png
-tags: [CoC]
+tags: [언성 듀엣]
 ---
-
-
-[CoC]
 
 
 {% include_relative fairyking.html %}
