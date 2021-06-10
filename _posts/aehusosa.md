@@ -1,0 +1,12 @@
+---
+layout: post
+title: 납치된 망치
+subtitle: 버스테
+permalink: /2021-06-11-aehusosa/
+tags: [후소사, 버스테]
+---
+
+
+.
+
+{% include_relative aehusosa.html %}
